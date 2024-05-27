@@ -1,0 +1,41 @@
+[33mcommit 832072641b0364af6a51702a4afc13dcfc7ce72f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Jair Mendez <jairmendez.contacto@gmail.com>
+Date:   Mon May 27 16:04:08 2024 -0600
+
+    Mostrando status corto
+
+[33mcommit 06d4f73a416bd2e90a48e0b3bac7a106648760bd[m
+Author: Jair Mendez <jairmendez.contacto@gmail.com>
+Date:   Mon May 27 16:00:12 2024 -0600
+
+    Agregando archivo gitignore
+
+[33mcommit 17f901ceb82f5ef6d3da2b88b32e313ac6e8ffac[m
+Author: Jair Mendez <jairmendez.contacto@gmail.com>
+Date:   Mon May 27 15:56:11 2024 -0600
+
+    Devolviendo el nombre del archivo
+
+[33mcommit b622ddb43985fa4aac34738a36a53a94e7e0d2bc[m
+Author: Jair Mendez <jairmendez.contacto@gmail.com>
+Date:   Mon May 27 15:55:33 2024 -0600
+
+    Renombrando archivos
+
+[33mcommit acfcea7de8e5150e9b9d414853a9d8ceecfe51cf[m
+Author: Jair Mendez <jairmendez.contacto@gmail.com>
+Date:   Mon May 27 15:49:26 2024 -0600
+
+    Eliminando archivo 2
+
+[33mcommit 25c7e811c0c6b72649f8198acfc58a8e41dc5fc5[m
+Author: Jair Mendez <jairmendez.contacto@gmail.com>
+Date:   Mon May 27 15:46:55 2024 -0600
+
+    Agregando un chanco feliz
+
+[33mcommit f28d1b97381f6d09ffdafdbefa18cf8c490c9c88[m
+Author: Jair Mendez <jairmendez.contacto@gmail.com>
+Date:   Mon May 27 15:45:46 2024 -0600
+
+    Commit inicial
